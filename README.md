@@ -8,7 +8,7 @@ Graphic Visualization of Sensor Signals is a Python-based graphical application 
 
 **Supervisor:** Ir. Dwi Oktavianto Wahyu Nugroho, S.T., M.T.
 
-Department of Instrumentation Engineering, Vocational Faculty, Institut Teknologi Sepuluh Nopember (ITS).
+Department of Instrumentation Engineering, Vocational Faculty, Sepuluh Nopember Institute of Technology (ITS).
 
 ## Features
 
