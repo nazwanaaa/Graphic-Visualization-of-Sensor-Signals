@@ -2,6 +2,14 @@
 
 Graphic Visualization of Sensor Signals is a Python-based graphical application for visualizing, processing, and analyzing various sensor signals. This program leverages `Tkinter` for the user interface, `Matplotlib` for plotting, and custom signal processing modules to handle operations such as noise addition, signal filtering, and frequency domain analysis.
 
+## Authors and Supervisor
+
+**Author:** Andik Putra Nazwana (2042231010)
+
+**Supervisor:** Ir. Dwi Oktavianto Wahyu Nugroho, S.T., M.T.
+
+Department of Instrumentation Engineering, Vocational Faculty, Institut Teknologi Sepuluh Nopember.
+
 ## Features
 
 - **Sensor Signal Visualization:** Supports multiple sensors like Flex, LM35, Sound, MEMS, and Pulse Rate sensors.
@@ -77,22 +85,13 @@ python gui2.py
 
 ## Screenshots
 
-![GUI Interface](GUI.png)
+
 
 ## Future Enhancements
 
 - Add support for more signal types.
 - Include additional filtering and signal processing techniques.
 - Export processed signals to files (e.g., CSV or JSON).
-
-## Author
-
-Andik Putra Nazwana\
-2042231010
-
-## Supervisor
-
-Ir. Dwi Oktavianto Wahyu Nugroho, S.T., M.T.
 
 ## License
 
