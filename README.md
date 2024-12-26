@@ -77,7 +77,7 @@ python gui2.py
 
 ## Screenshots
 
-(Add relevant screenshots of the application interface here.)
+![GUI Interface](GUI.png)
 
 ## Future Enhancements
 
