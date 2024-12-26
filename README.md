@@ -1,6 +1,6 @@
-# Signal Visualizer
+# Graphic Visualization of Sensor Signals
 
-Signal Visualizer is a Python-based graphical application for visualizing, processing, and analyzing various sensor signals. This program leverages `Tkinter` for the user interface, `Matplotlib` for plotting, and custom signal processing modules to handle operations such as noise addition, signal filtering, and frequency domain analysis.
+Graphic Visualization of Sensor Signals is a Python-based graphical application for visualizing, processing, and analyzing various sensor signals. This program leverages `Tkinter` for the user interface, `Matplotlib` for plotting, and custom signal processing modules to handle operations such as noise addition, signal filtering, and frequency domain analysis.
 
 ## Features
 
